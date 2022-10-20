@@ -1,4 +1,4 @@
-# Ray-Tracing-Rest-of-your-life
+# Ray Tracing Rest of your life
 
 ## Descrição do terceiro trabalho da matéria de Computação Gráfica
 
